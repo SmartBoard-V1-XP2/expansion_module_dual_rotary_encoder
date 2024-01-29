@@ -6,7 +6,7 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
-This repository is dedicated to the design and implementation of a Dual Encoder Module, featuring two EC12E24204A8 encoders interfaced with an ATtiny48 microcontroller. Designed as an expansion module for the smartboard, it connects via a single slot, providing precise rotational input control for a wide range of applications.
+This repository is dedicated to the design and implementation of a Dual Encoder Module, featuring two EC12E24204A8 encoders interfaced with an ATtiny48 microcontroller. Designed as an expansion module for the smartboard, it connects via a single smartboard connector, providing precise rotational input control for a wide range of applications.
 
 ## Key Features
 - **Dual EC12E24204A8 Encoders**: High-quality rotary encoders for accurate and reliable input.
@@ -17,5 +17,5 @@ This repository is dedicated to the design and implementation of a Dual Encoder 
 
 ![Schematic](media/sch.png)
 ![Board Design Top](media/brd_top.png)
-![Board Design Bottom](media/brd_bottom.brd)
+![Board Design Bottom](media/brd_bottom.pnd)
 ![Connector Signals](media/CONx1.png)
