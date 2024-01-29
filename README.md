@@ -17,5 +17,5 @@ This repository is dedicated to the design and implementation of a Dual Encoder 
 
 ![Schematic](media/sch.png)
 ![Board Design Top](media/brd_top.png)
-![Board Design Bottom](media/brd_bottom.pnd)
+![Board Design Bottom](media/brd_bottom.png)
 ![Connector Signals](media/CONx1.png)
